@@ -1146,9 +1146,9 @@ ul.address li.add_right p a:hover{
     margin-bottom: 2em
 	}
 	.view .mask, .view .content {
-		position: absolute;
+		position: relative;
 		overflow: hidden;
-		top: 93px;
+		top: 0;
 		left: 0;
 	}
 	.staff {
